@@ -14,7 +14,8 @@ Check out the  [Ruboto project](https://github.com/ruboto/ruboto) for more infor
 ### Shell
 
 Add the following to your environment variables:
-`export ANDROID_HOME=~/Documents/Android/SDK`
+
+`export ANDROID_HOME=~/Documents/Android/SDK` (Replace with your SDK path)
 `export PATH=${PATH}:$ANDROID_HOME/tools:$ANDROID_HOME/platform-tools`
 
 ### Installation
